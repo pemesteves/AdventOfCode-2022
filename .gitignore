@@ -1,0 +1,5 @@
+# VS Folders
+.vscode/**
+
+# Executable
+/**/*.exe
