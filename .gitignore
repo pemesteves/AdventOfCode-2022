@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # Executable
 /**/*.exe
+
+# VS Code files
+.vscode/**
